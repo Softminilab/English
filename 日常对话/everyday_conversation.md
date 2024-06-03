@@ -114,48 +114,40 @@
    - 你昨天干什么了？
    - **A: I went to the park with my friends.**
      - 我和朋友去了公园。
-
 2. **Q: Have you had breakfast yet?**
    - 你吃早餐了吗？
    - **A: Yes, I had cereal and milk.**
      - 是的，我吃了麦片和牛奶。
-
 3. **Q: What did you eat for lunch?**
    - 你午餐吃的什么？
    - **A: I had a chicken salad.**
      - 我吃了鸡肉沙拉。
-
 4. **Q: Did you watch any movies last night?**
    - 你昨晚看电影了吗？
    - **A: Yes, I watched a comedy movie.**
      - 是的，我看了一部喜剧片。
-
 5. **Q: How was your meeting this morning?**
    - 你今天早上的会议怎么样？
    - **A: It went well, we discussed a lot of important topics.**
      - 很顺利，我们讨论了很多重要的话题。
-
 6. **Q: What time did you go to bed last night?**
    - 你昨晚几点睡的？
    - **A: I went to bed around 11 p.m.**
      - 我大概晚上11点睡的。
-
 7. **Q: Did you exercise today?**
    - 你今天锻炼了吗？
    - **A: Yes, I went for a run in the morning.**
      - 是的，我早上跑步了。
-
 8. **Q: How's the new book you're reading?**
    - 你正在看的新书怎么样？
    - **A: It's really interesting, I can't put it down.**
      - 非常有趣，我都舍不得放下。
-
 9. **Q: What are your plans for the weekend?**
    - 你周末有什么计划？
    - **A: I'm planning to visit my grandparents.**
      - 我打算去看望我的祖父母。
-
 10. **Q: Have you finished your homework?**
     - 你做完作业了吗？
     - **A: Not yet, I still have a few assignments to complete.**
       - 还没有，我还有一些作业要完成。
+11. **Q: What did you do last weekend?**
