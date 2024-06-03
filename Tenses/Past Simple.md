@@ -5,7 +5,7 @@
 以下是不规则动词及其过去式、英式音标，以及每个单词的例句和中文意思：
 
 | 原形动词 (Base Form)     | 过去式 (Past Simple)    | 示例句子和中文意思                                           |
-| ------------------------ | ----------------------- | ------------------------------------------------------------ |
+| :----------------------- | ----------------------- | ------------------------------------------------------------ |
 | say /seɪ/                | said /sɛd/              | I say hello. - 我说你好。<br>I said hello. - 我说了你好。    |
 | be /biː/                 | was /wɒz/, were /wə/    | I am happy. - 我很高兴。<br>I was happy. - 我很高兴。        |
 | become /bɪˈkʌm/          | became /bɪˈkeɪm/        | She becomes a doctor. - 她成为了一名医生。<br>She became a doctor. - 她成为了一名医生。 |
@@ -33,5 +33,8 @@
 | catch /kætʃ/             | caught /kɔːt/           | They catch the ball. - 他们接住了球。<br>They caught the ball. - 他们接住了球。 |
 | leave /liːv/             | left /lɛft/             | She leaves the room. - 她离开了房间。<br>She left the room. - 她离开了房间。 |
 | understand /ˌʌndəˈstænd/ | understood /ˌʌndəˈstʊd/ | I understand the lesson. - 我理解了这节课。<br>I understood the lesson. - 我理解了这节课。 |
+| meet / miːt /            | met / met /             | Meet me at 8.00. 八点钟来见我。<br />We met  last night 8.00. 我们昨天晚上八点见面了 |
+
+
 
 这些不规则动词的过去式需要单独记忆，因为它们不遵循规则动词加 "-ed" 的形式。
