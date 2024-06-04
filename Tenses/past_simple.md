@@ -34,6 +34,7 @@
 | leave /liːv/             | left /lɛft/             | She leaves the room. - 她离开了房间。<br>She left the room. - 她离开了房间。 |
 | understand /ˌʌndəˈstænd/ | understood /ˌʌndəˈstʊd/ | I understand the lesson. - 我理解了这节课。<br>I understood the lesson. - 我理解了这节课。 |
 | meet / miːt /            | met / met /             | Meet me at 8.00. 八点钟来见我。<br />We met  last night 8.00. 我们昨天晚上八点见面了 |
+| swim /swɪm/              | Swam /swæm/             | She could swim across the lake. 她能游到湖对岸去。<br />We Swam in thr river yesterday. 我们昨天在河里游泳了。 |
 
 
 
